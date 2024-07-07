@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt_gra.Czarodziej">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Czarodziej.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Goblin">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goblin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Lis">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Łucznik">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEQAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Łucznik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Postać">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAQgAAIBAAAAFrEQAAAUIADAAAIAAAAAECAEAAAIAA=</HashCode>
+      <FileName>Postać.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Czar">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgIAAAEgAAAACAAAAAAAIAAAAEgQAAAAAA=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.KsiegaCzarow">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skill_list.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Smok">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Smok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Wojownik">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wojownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.Wrok">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAQACAAEAABAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.PostacException">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wyjatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.ZlotoException">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wyjatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_gra.ManaException">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wyjatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Projekt_gra.TypCzaru">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAgAAAAAA=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt_gra.Atrybut">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAAAAAAAAAAAAAgACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt_gra.Klasa">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

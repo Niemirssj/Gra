@@ -1,0 +1,13 @@
+C:\Users\Win-10\source\repos\Gra\Gra\bin\Debug\Gra.exe.config
+C:\Users\Win-10\source\repos\Gra\Gra\bin\Debug\Gra.exe
+C:\Users\Win-10\source\repos\Gra\Gra\bin\Debug\Gra.pdb
+C:\Users\Win-10\source\repos\Gra\Gra\bin\Debug\Projekt_gra.dll
+C:\Users\Win-10\source\repos\Gra\Gra\bin\Debug\Projekt_gra.pdb
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.csprojAssemblyReference.cache
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.Form1.resources
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.csproj.GenerateResource.cache
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.csproj.CopyComplete
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.exe
+C:\Users\Win-10\source\repos\Gra\Gra\obj\Debug\Gra.pdb

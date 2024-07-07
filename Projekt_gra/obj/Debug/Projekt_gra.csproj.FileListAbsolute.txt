@@ -1,0 +1,6 @@
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\bin\Debug\Projekt_gra.dll
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\bin\Debug\Projekt_gra.pdb
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\obj\Debug\Projekt_gra.csprojAssemblyReference.cache
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\obj\Debug\Projekt_gra.csproj.CoreCompileInputs.cache
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\obj\Debug\Projekt_gra.dll
+C:\Users\Win-10\source\repos\Gra\Projekt_gra\obj\Debug\Projekt_gra.pdb

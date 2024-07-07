@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gra", "Gra\Gra.csproj", "{B4346E07-1785-49FF-8B0A-C603777271E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt_gra", "Projekt_gra\Projekt_gra.csproj", "{03C074C9-AB0A-49B1-B54D-6AFEACAA7D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4346E07-1785-49FF-8B0A-C603777271E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4346E07-1785-49FF-8B0A-C603777271E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4346E07-1785-49FF-8B0A-C603777271E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4346E07-1785-49FF-8B0A-C603777271E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C074C9-AB0A-49B1-B54D-6AFEACAA7D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C074C9-AB0A-49B1-B54D-6AFEACAA7D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C074C9-AB0A-49B1-B54D-6AFEACAA7D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C074C9-AB0A-49B1-B54D-6AFEACAA7D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A104401-909D-4E89-85D8-D34A284073DF}
+	EndGlobalSection
+EndGlobal
